@@ -1,0 +1,37 @@
+body {
+    background-color: #A75E3F;
+    color: #FCFB0A;
+    font-family: 'Jost';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Changa One";
+    font-size: 40pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+header {
+    text-align: center;
+}
+
+/*The Hero*/
+#hero ,footer {
+    text-align: center;
+    background-color: #F2E9E4;
+    color: #7C0AFC;
+    padding: 20px;
+    border: 3px solid #7C0AFC;
+    border-radius: 20px;
+}
+
+#hero img {
+    width: 300px;
+    max-width: 100%;
+}
+
